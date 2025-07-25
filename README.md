@@ -11,7 +11,7 @@ The neural network was tested first on the CroppedYale B dataset and then on a d
 
 More information about the algorithm for pose detection and annotation can be found [here](https://github.com/krasvachev/KinectRealTimeVision.git).
 
-More detailed explanation of the algorithms can be found in the papers listed in the [Paper section](https://readme.so/editor#:~:text=neural%20network%20performance.-,Papers,-Automatic%20Personal%20Annotation).
+More detailed explanations of the algorithms can be found in the papers listed in the [Paper section]([https://readme.so/editor#:~:text=neural%20network%20performance.-,Papers,-Automatic%20Personal%20Annotation](https://github.com/krasvachev/Automatic-Personal-Anotation?tab=readme-ov-file#papers).
 
 ## Files 
 
